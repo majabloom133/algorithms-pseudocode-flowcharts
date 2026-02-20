@@ -73,6 +73,8 @@ End
 
 ### ✔ Flowchart
 
+https://github.com/majabloom133/algorithms-pseudocode-flowcharts/blob/989eccdf6737ff06335f8ccd90ee8b5972381a6e/algorithms-pseudocode-flowcharts/Exercise%202.drawio.png
+
 ---
 
 ## 3. Display Multiplication Table
@@ -99,6 +101,8 @@ End
 
 ### ✔ Flowchart
 
+https://github.com/majabloom133/algorithms-pseudocode-flowcharts/blob/989eccdf6737ff06335f8ccd90ee8b5972381a6e/algorithms-pseudocode-flowcharts/Exercise%203.drawio.png
+
 ---
 
 ## 4. Positive, Negative, or Zero Check
@@ -124,6 +128,8 @@ Else
  End
 
 ### ✔ Flowchart
+
+https://github.com/majabloom133/algorithms-pseudocode-flowcharts/blob/989eccdf6737ff06335f8ccd90ee8b5972381a6e/algorithms-pseudocode-flowcharts/Exercise%204.drawio.png
 
 ---
 
@@ -155,6 +161,9 @@ Start
 End
 
 ### ✔ Flowchart
+
+https://github.com/majabloom133/algorithms-pseudocode-flowcharts/blob/989eccdf6737ff06335f8ccd90ee8b5972381a6e/algorithms-pseudocode-flowcharts/Exercise%205.drawio%20(1).png
+
 ---
 
 ## 6. Average Temperature Calculation
@@ -183,6 +192,7 @@ End
 
 ### ✔ Flowchart
 
+https://github.com/majabloom133/algorithms-pseudocode-flowcharts/blob/989eccdf6737ff06335f8ccd90ee8b5972381a6e/algorithms-pseudocode-flowcharts/Exercise%206.drawio.png
 
 ---
 
@@ -214,6 +224,8 @@ End
 
 ### ✔ Flowchart
 
+https://github.com/majabloom133/algorithms-pseudocode-flowcharts/blob/989eccdf6737ff06335f8ccd90ee8b5972381a6e/algorithms-pseudocode-flowcharts/Exercise%207.drawio.png
+
 ---
 
 ## 8. Determine Pass or Fail
@@ -237,6 +249,8 @@ End
 
 
 ### ✔ Flowchart
+
+https://github.com/majabloom133/algorithms-pseudocode-flowcharts/blob/989eccdf6737ff06335f8ccd90ee8b5972381a6e/algorithms-pseudocode-flowcharts/Exercise%208.drawio.png
 
 ---
 
@@ -266,6 +280,8 @@ End
 
 ### ✔ Flowchart
 
+https://github.com/majabloom133/algorithms-pseudocode-flowcharts/blob/989eccdf6737ff06335f8ccd90ee8b5972381a6e/algorithms-pseudocode-flowcharts/Exercise%209.drawio.png
+
 ---
 
 ## 10. Calculate Discount on Purchase
@@ -292,5 +308,7 @@ Display "Amount to pay: ", total
 End
 
 ### ✔ Flowchart
+
+https://github.com/majabloom133/algorithms-pseudocode-flowcharts/blob/989eccdf6737ff06335f8ccd90ee8b5972381a6e/algorithms-pseudocode-flowcharts/Exercise%2010.drawio%20(1).png
 
 ---
